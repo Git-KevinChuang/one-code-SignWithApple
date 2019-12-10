@@ -1,4 +1,5 @@
 # one-code-SignInWithApple
+## xcode 11.2.1  
 # setup 
 * 1.login apple developer web site
 * 2.select apple identidier open sign with apple 
